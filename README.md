@@ -4,10 +4,12 @@ MIT-licensed 3D-scan of my body done with an iPhone 11 Pro and [In3D app](https:
 
 The repository contains: 
 
-###A texture
+### A texture
+
 ![my texture](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/model.jpg?raw=true)
 
-###A model itself:
+### A model itself (demo):
+
 ![model demo](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/demo.gif?raw=true)
 
 I don't know why, but you can use it anyhow, I was just testing GitHub on this repo.
