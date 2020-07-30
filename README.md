@@ -15,7 +15,7 @@ Repository contains:
 
 I don't know why, but you can use it anyhow, I was just testing GitHub on this repo.
 ________
-Copyright (c) <2020> <Denis Shiryev>
+Copyright (c) 2020, Denis Shiryev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
