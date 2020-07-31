@@ -14,6 +14,11 @@ Repository contains:
 ![model demo](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/demo.gif?raw=true)
 
 I don't know why, but you can use it anyhow, I was just testing GitHub on this repo.
+
+### Updated 31.07.2020 – GTA: Vice City support added, [author](https://dtf.ru/u/73649-aleksey-pomyalov/180706-tommi-versetti-a-mozhet-luchshe-denis-shiryaev)
+
+![GTA Vice City](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/gta-vice-city/demo.gif?raw=true)
+
 ________
 Copyright (c) 2020, Denis Shiryev
 
