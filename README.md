@@ -19,6 +19,10 @@ I don't know why, but you can use it anyhow, I was just testing GitHub on this r
 
 ![GTA Vice City](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/gta-vice-city/demo.gif?raw=true)
 
+### Updated 01.08.2020 – 3d-print copy added, [author](https://tjournal.ru/flood/193427-denis-shiryaev-otkryl-dostup-k-svoemu-telu-pod-licenziey-mit)
+
+![3D printed](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/3d-print/demo.jpg?raw=true)
+
 ________
 Copyright (c) 2020, Denis Shiryev
 
