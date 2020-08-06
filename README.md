@@ -25,7 +25,7 @@ I don't know why, but you can use it anyhow, I was just testing GitHub on this r
 
 ### Updated 06.08.2020 – Enhanced model (Now with Apple Watch support, yay) in [.fbx](https://github.com/DenisSergeevitch/My-3d-copy/tree/master/enhanced) added, [author](https://github.com/CORRUPTOR2037)
 
-![.fbx model](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/3d-print/enhanced/demo.jpg?raw=true)
+![.fbx model](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/enhanced/demo.jpg?raw=true)
 
 ________
 Copyright (c) 2020, Denis Shiryev
