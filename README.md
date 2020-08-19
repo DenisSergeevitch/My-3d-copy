@@ -27,7 +27,7 @@ I don't know why, but you can use it anyhow, I was just testing GitHub on this r
 
 ![.fbx model](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/enhanced/demo.jpg?raw=true)
 
-### Updated 07.08.2020 – GTA V support [added](https://github.com/DenisSergeevitch/My-3d-copy/tree/master/gta-v) and how-to added.
+### Updated 19.08.2020 – GTA V support [added](https://github.com/DenisSergeevitch/My-3d-copy/tree/master/gta-v) and how-to added.
 
 ![models](https://github.com/DenisSergeevitch/My-3d-copy/blob/master/gta-v/demo.jpg?raw=true)
 
