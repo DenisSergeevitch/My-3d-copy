@@ -1,5 +1,4 @@
 ## GTA V version of [my body](https://www.facebook.com/Denis.Sergeevitch/)
-![Version](https://img.shields.io/badge/GTA-V.01) 
 
 MIT-licensed 3D-model of my body for GTA V game.
 
