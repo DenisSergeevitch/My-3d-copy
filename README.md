@@ -3,6 +3,10 @@
 
 MIT-licensed 3D-scan of my body done with an iPhone 11 Pro and [In3D app](https://apps.apple.com/us/app/in3d-3d-body-scanning/id1467153183).
 
+Promo video:
+
+https://user-images.githubusercontent.com/2140110/116795961-04cb7580-aad9-11eb-92a5-b2f1aeabfdf7.mp4
+
 Repository contains: 
 
 ### A texture
